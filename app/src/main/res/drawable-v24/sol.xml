@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/sol_01" android:duration="30" />
+    <item android:drawable="@drawable/sol_02" android:duration="30" />
+    <item android:drawable="@drawable/sol_03" android:duration="30" />
+    <item android:drawable="@drawable/sol_04" android:duration="30" />
+    <item android:drawable="@drawable/sol_05" android:duration="30" />
+    <item android:drawable="@drawable/sol_06" android:duration="30" />
+    <item android:drawable="@drawable/sol_07" android:duration="30" />
+    <item android:drawable="@drawable/sol_08" android:duration="30" />
+    <item android:drawable="@drawable/sol_09" android:duration="30" />
+    <item android:drawable="@drawable/sol_10" android:duration="30" />
+    <item android:drawable="@drawable/sol_11" android:duration="30" />
+    <item android:drawable="@drawable/sol_12" android:duration="30" />
+    <item android:drawable="@drawable/sol_13" android:duration="30" />
+    <item android:drawable="@drawable/sol_14" android:duration="30" />
+    <item android:drawable="@drawable/sol_15" android:duration="30" />
+    <item android:drawable="@drawable/sol_16" android:duration="30" />
+    <item android:drawable="@drawable/sol_17" android:duration="30" />
+    <item android:drawable="@drawable/sol_18" android:duration="30" />
+    <item android:drawable="@drawable/sol_19" android:duration="30" />
+    <item android:drawable="@drawable/sol_20" android:duration="30" />
+    <item android:drawable="@drawable/sol_21" android:duration="30" />
+    <item android:drawable="@drawable/sol_22" android:duration="30" />
+    <item android:drawable="@drawable/sol_23" android:duration="30" />
+    <item android:drawable="@drawable/sol_24" android:duration="30" />
+    <item android:drawable="@drawable/sol_25" android:duration="30" />
+    <item android:drawable="@drawable/sol_26" android:duration="30" />
+    <item android:drawable="@drawable/sol_27" android:duration="30" />
+    <item android:drawable="@drawable/sol_28" android:duration="30" />
+    <item android:drawable="@drawable/sol_29" android:duration="30" />
+    <item android:drawable="@drawable/sol_30" android:duration="30" />
+    <item android:drawable="@drawable/sol_31" android:duration="30" />
+    <item android:drawable="@drawable/sol_32" android:duration="30" />
+    <item android:drawable="@drawable/sol_33" android:duration="30" />
+    <item android:drawable="@drawable/sol_34" android:duration="30" />
+    <item android:drawable="@drawable/sol_35" android:duration="30" />
+    <item android:drawable="@drawable/sol_35" android:duration="30" />
+    <item android:drawable="@drawable/sol_37" android:duration="30" />
+    <item android:drawable="@drawable/sol_38" android:duration="30" />
+    <item android:drawable="@drawable/sol_39" android:duration="30" />
+    <item android:drawable="@drawable/sol_40" android:duration="30" />
+    <item android:drawable="@drawable/sol_41" android:duration="30" />
+    <item android:drawable="@drawable/sol_42" android:duration="30" />
+    <item android:drawable="@drawable/sol_43" android:duration="30" />
+    <item android:drawable="@drawable/sol_44" android:duration="30" />
+    <item android:drawable="@drawable/sol_45" android:duration="30" />
+    <item android:drawable="@drawable/sol_46" android:duration="30" />
+    <item android:drawable="@drawable/sol_47" android:duration="30" />
+    <item android:drawable="@drawable/sol_48" android:duration="30" />
+    <item android:drawable="@drawable/sol_49" android:duration="30" />
+    <item android:drawable="@drawable/sol_50" android:duration="30" />
+    <item android:drawable="@drawable/sol_51" android:duration="30" />
+    <item android:drawable="@drawable/sol_52" android:duration="30" />
+    <item android:drawable="@drawable/sol_53" android:duration="30" />
+    <item android:drawable="@drawable/sol_54" android:duration="30" />
+    <item android:drawable="@drawable/sol_55" android:duration="30" />
+    <item android:drawable="@drawable/sol_56" android:duration="30" />
+    <item android:drawable="@drawable/sol_57" android:duration="30" />
+    <item android:drawable="@drawable/sol_58" android:duration="30" />
+    <item android:drawable="@drawable/sol_59" android:duration="30" />
+
+
+</animation-list>
